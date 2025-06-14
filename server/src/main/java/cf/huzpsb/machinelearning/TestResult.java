@@ -23,3 +23,4 @@ public class TestResult implements Serializable {
         result = i;
     }
 }
+
